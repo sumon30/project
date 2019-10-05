@@ -1,0 +1,82 @@
+
+/*section-home*/
+
+.section-home {
+    height: 633px;
+    width: 100%;
+    background-image: url("image/home.png");
+    background-size: 100%;
+}
+
+.shape {
+    /*height: 550px;*/
+    width: 95%;
+    margin-top: 120px;
+    margin-left: -50px;
+
+}
+.laptop1 {
+    height: 450px;
+    /*width: 100%;*/
+    margin-top: -600px;
+    margin-left: -100px;
+
+}
+
+.text {
+    margin-top: 120px;
+}
+.h-coment1{
+    padding: 15px;
+}
+.p-coment {
+    padding: 15px;
+}
+
+.link {
+    padding: 25px;
+}
+.btn-secondary {
+    margin-left: 150px;
+}
+
+/*section-testimonial*/
+
+.section-testimonials {
+    width: 100%;
+    height: 1000px;
+    margin-top: 150px;
+    background: #9fcdff;
+}
+
+.paragraph{
+    margin-top: 100px;
+    font-size:35px;
+}
+.paragraph1{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.box {
+    margin-top: 100px;
+    height: 300px;
+    /*background-color: #28a745;*/
+}
+
+.ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+/*section-funfacts2*/
+
+.para {
+    margin-top: 100px;
+}
+.para1 {
+    margin-top: 100px;
+}
+.col-lg-4 {
+    margin-top: 25px;
+}
